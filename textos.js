@@ -13,7 +13,7 @@ Te amo de una forma muy real, muy mía, muy de todos los días. Y aunque las cos
 
 Para mí eres de las mejores personas que han llegado a mi vida. No dejo de pensar en ti, en todo lo que compartimos, en todo lo que me enseñas, en las cosas que me cuentas, en las series que me muestras, en los momentos contigo. Casi todo me recuerda a ti, día y noche.
 
-Y si te soy sincero, estoy seguro de que en todos los universos tú serías la persona que amaría. Hoy y siempre. Tal vez nunca pueda superar eso, pero la verdad... estoy bien con eso, porque amo tenerte, amo coincidir contigo, y amo poder seguir compartiendo tiempo contigo sin importar el contexto.` ,
+Y si te soy sincero, estoy seguro de que en todos los universos tú serías la persona que amaría. Hoy y siempre. Tal vez nunca pueda superar eso, pero la verdad... estoy bien con eso, porque amo tenerte, amo coincidir contigo, y como te digo, no es necesario que sientas lo mismo por mi para seguirte amadno como lo hago, eso ya me quedó claro, tampoco pido una respuesta a esto, en fin amo todo lo que tenga que ver contigo, amo poder seguir compartiendo tiempo contigo sin importar el contexto, te amo Yuriko.` ,
 
   personal: `No necesito que sientas exactamente lo mismo para seguir queriéndote con todo mi corazón. Solo quiero que sepas que aquí hay alguien que te ama muchísimo, que te admira muchísimo y que siempre va a querer lo mejor para ti.
 
