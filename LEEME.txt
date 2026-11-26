@@ -1,0 +1,15 @@
+CARTA PARA YUKO — VERSION 1.2
+
+Portada actualizada con un diseño de cumpleaños inspirado en una de las
+skins reales de Yuko (vestido lila, gorrito amarillo, medias rayadas).
+Las fotos pequeñas y la galería continúan siendo las capturas originales.
+
+La portada grande se encuentra en: assets/portada.webp
+La carta de dos hojas se mantiene sin cambios.
+
+Para probar:
+py -m http.server 8787 --bind 0.0.0.0
+Abre: http://127.0.0.1:8787/index.html
+
+Puedes subir los archivos de esta carpeta a la raíz de un repositorio
+y activar GitHub Pages.

@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#49283f">
+  <title>Feliz cumpleaños, Yuko ♡</title>
+  <link rel="stylesheet" href="estilos.css?v=1.2">
+</head>
+<body>
+  <div id="sparkles" aria-hidden="true"></div>
+
+  <header>
+    <a href="#inicio" class="brand">♥ Una carta para Yuko</a>
+    <nav>
+      <a href="#carta">Carta</a>
+      <a href="#recuerdos">Recuerditos</a>
+      <a href="#sobre-ti">Sobre ti</a>
+    </nav>
+    <button id="celebrar" aria-label="Lanzar confeti">✧ Celebrar</button>
+  </header>
+
+  <main>
+    <section id="inicio" class="hero">
+      <div class="heroart" role="img" aria-label="Ilustración de cumpleaños con una skin de Yuko, pastel, globos y pingüinos"></div>
+      <div class="hero-text">
+        <span class="eyebrow">26 DE NOVIEMBRE · TU DÍA ♡</span>
+        <h1>Feliz<br>cumpleaños,<br><em>Yuko ♡</em></h1>
+        <div class="ribbon">Para ti, hoy y siempre</div>
+        <p>Hice esta cartita para ti, porque eres demasiado especial para mí.</p>
+        <a class="cta" href="#carta">Abrir mi carta ↓</a>
+      </div>
+    </section>
+
+    <div class="content">
+      <section id="carta" class="letters reveal">
+        <article class="paper letter yuko-letter">
+          <div class="letter-topbar">
+            <h2>Mi carta para ti</h2>
+            <div class="page-switch" aria-label="Cambiar hoja de la carta">
+              <button id="prev-page" type="button" aria-label="Hoja anterior">←</button>
+              <span id="page-indicator">Hoja 1 de 2</span>
+              <button id="next-page" type="button" aria-label="Hoja siguiente">→</button>
+            </div>
+          </div>
+
+          <div class="letter-page active" data-page="0">
+            <figure class="polaroid polaroid-stack">
+              <img src="assets/recuerdo-01.webp" alt="Nuestra primera captura de skins match de esta colección">
+              <img src="assets/recuerdo-02.webp" alt="Otra de nuestras skins combinadas">
+            </figure>
+            <div>
+              <h3 id="saludo-hoja-1"></h3>
+              <p id="carta-hoja-1" class="pre"></p>
+            </div>
+          </div>
+
+          <div class="letter-page" data-page="1" hidden>
+            <figure class="polaroid polaroid-stack alt">
+              <img src="assets/recuerdo-03.webp" alt="Una de nuestras combinaciones de skins">
+              <img src="assets/recuerdo-04.webp" alt="Otra foto de nuestras skins match">
+            </figure>
+            <div>
+              <h3 id="saludo-hoja-2"></h3>
+              <p id="carta-hoja-2" class="pre"></p>
+            </div>
+          </div>
+        </article>
+
+        <article class="paper note">
+          <span class="ornament">✎ ♡</span>
+          <h2>Unas cositas que quería decirte</h2>
+          <p id="personal" class="pre"></p>
+        </article>
+      </section>
+
+      <section id="recuerdos" class="reveal">
+        <h2 class="section-title">✧ Pequeños recuerdos para ti ♡ ✧</h2>
+        <p class="subtitle">Algunas de nuestras skins match. Que goood se ven, JAJA.</p>
+        <div id="gallery" class="gallery"></div>
+      </section>
+
+      <section id="sobre-ti" class="reveal">
+        <h2 class="section-title">♡ Cosas que amo de ti ♡</h2>
+        <div class="traits">
+          <div>♡<span>Tu forma de ser</span></div>
+          <div>✧<span>Tu creatividad</span></div>
+          <div>♫<span>Cómo me cuentas cosas</span></div>
+          <div>☁<span>Tu compañía</span></div>
+          <div>★<span>Tus gustos y tu mundo</span></div>
+          <div>✿<span>Lo mucho que vales</span></div>
+        </div>
+        <div class="reminders">
+          <img src="assets/yuko.webp" alt="Una de nuestras capturas de skins match">
+          <article class="paper">
+            <h2>Cosas que siempre me van a recordar a ti</h2>
+            <p>♡ Tus skins, tus ideas y todo el empeño que le metes a lo que haces.</p>
+            <p>♡ Ladybug, Helluva Boss, Roblox, Minecraft y mil cosas más.</p>
+            <p>♡ Los momentos simples contigo, porque hasta eso se me hace especial.</p>
+            <p>♡ Y sí, casi todo me termina recordando a ti. Día y noche.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="paper finale reveal">
+        <span class="cake">🎂</span>
+        <h2>Feliz cumpleaños, <em>Yuko</em></h2>
+        <p id="despedida" class="pre"></p>
+        <div class="ribbon" id="firma"></div>
+        <button id="final-confetti">Pide un deseo ✨</button>
+      </section>
+    </div>
+  </main>
+
+  <footer>Hecho para Yuko · Noviembre de 2026 ♡</footer>
+
+  <dialog id="lightbox">
+    <button id="close" aria-label="Cerrar">×</button>
+    <button id="prev" aria-label="Anterior">‹</button>
+    <img id="full" alt="Recuerdo ampliado">
+    <button id="next" aria-label="Siguiente">›</button>
+  </dialog>
+
+  <script src="textos.js?v=1.0"></script>
+  <script src="app.js?v=1.0"></script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+ORIGEN DE LAS FOTOS DE CARTA YUKO 1.1
+Todas provienen del ZIP 02_YUKOTECA.zip que compartiste.
+Son capturas reales de skins match; no son las fotos de Ary.
+
+assets/recuerdo-01.webp <- Captura de pantalla 2026-01-20 181838.png
+assets/recuerdo-02.webp <- Captura de pantalla 2026-01-20 181903.png
+assets/recuerdo-03.webp <- Captura de pantalla 2026-01-20 182103.png
+assets/recuerdo-04.webp <- Captura de pantalla 2026-01-20 182205.png
+assets/recuerdo-05.webp <- Captura de pantalla 2026-01-20 182233.png
+assets/recuerdo-06.webp <- Captura de pantalla 2026-01-20 182322.png
+assets/recuerdo-07.webp <- Captura de pantalla 2026-01-20 182351.png
+assets/recuerdo-08.webp <- Captura de pantalla 2026-01-20 182435.png
+assets/recuerdo-09.webp <- Captura de pantalla 2026-01-20 182459.png
+assets/recuerdo-10.webp <- Captura de pantalla 2026-01-20 182548.png
+assets/recuerdo-11.webp <- Captura de pantalla 2026-01-20 182640.png
+assets/recuerdo-12.webp <- Captura de pantalla 2026-01-20 182707.png
+assets/recuerdo-13.webp <- Captura de pantalla 2026-01-20 182754.png
+assets/recuerdo-14.webp <- Captura de pantalla 2026-01-20 182828.png
+assets/recuerdo-15.webp <- Captura de pantalla 2026-01-20 182914.png
+assets/recuerdo-16.webp <- Captura de pantalla 2026-01-20 183216.png
+
+assets/portada.webp <- Captura de pantalla 2026-01-20 182459.png
+assets/yuko.webp <- Captura de pantalla 2026-01-20 182640.png
